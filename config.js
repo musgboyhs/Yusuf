@@ -39,15 +39,15 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6282376267531', 'Aisyah', true],
-['6281361281833', 'Aldi', true]
+['6281235373823', 'Mus', true],
+['6281235373823', 'Mus', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283838186170'
-global.nomorown = '6281361281833'
-global.nomorown1 = '6281361281833'
-global.nomorown2 = '6282376267531'
+global.nomorbot = '6281235373823'
+global.nomorown = '6281235373823'
+global.nomorown1 = '6281235373823'
+global.nomorown2 = '6281235373823'
 global.nomorwa = '0'
 
 
@@ -79,17 +79,17 @@ global.lynk = 'https://lynk.id/hyuuraofc'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/_b4c00t4an_s3l3b'
 global.sgh = 'https://github.com/hyuura-official' //github
-global.sgc = 'https://chat.whatsapp.com/LmbsOrpSGEpDdFdpuukmmP' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/J316oJzk9tK6LJJr2veNqU' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0813 6128 1833'
+global.pdana = '085721354560'
 global.povo = '-'
-global.pgopay = '0813 6128 1833'
+global.pgopay = '085721354560'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0813 6128 1833'
-global.ppulsa2 = '083838186170'
+global.ppulsa = '085721354560'
+global.ppulsa2 = '081235373823'
 global.psaweria = 'https://saweria.co/hyuura'
 
 
